@@ -1,1 +1,5 @@
-
+rules:
+  - No hardcoded values
+  - Validate API response
+  - Avoid duplicate functions
+  - Proper error handling
